@@ -14,3 +14,7 @@ main:
     
   - title: "CV"
     url: /cv/
+
+- title: "MARES"
+    url: https://github.com/wpearman1996/custom_metabarcoding_databases
+
