@@ -1,7 +1,7 @@
 ---
 permalink: /nonacademic/
-title: "Non-Academic Work"
-author_profile: true
+title: "Non-Academic"
+author_profile: false
 redirect_from: 
   - /md/
   - /nonacademic.html
