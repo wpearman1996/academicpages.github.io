@@ -1,12 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 Website under development
 ======
 
@@ -23,4 +14,4 @@ I worked with Libby Liggins, Dave Aguirre, and Vanessa Arranz to develop a pipel
 
 During this time, I was also involved in the [Ira Moana project](https://sites.massey.ac.nz/iramoana/), developing analysis pipelines for re-use of genetic data and helping to compile metadata from previous publications. 
 
-While I completed my undergraduate and masters degree, I also studied the role that read length plays in characterizing communities with metagenomics. For this research, we found that community characterization success depended critically on i) kingdom ii) read length, and iii) sequencing technology.
+While I completed my undergraduate and masters degree, I also studied the role that read length plays in characterizing communities with metagenomics (accepted, BMC Bioinformatics). For this research, we found that community characterization success depended critically on i) kingdom ii) read length, and iii) sequencing technology.
