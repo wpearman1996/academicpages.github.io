@@ -13,7 +13,7 @@ Website under development
 
 About me
 ======
-I'm an incoming PhD student with Associate Professor Ceridwen Fraser and Dist. Prof. Neil Gemmell at the University of Otago, Dunedin. My PhD research focuses on large macroalgae around New Zealand, in particular the way environment and geography shape the microbiome, and the role the microbiome plays in development. 
+I'm an incoming PhD student with Associate Professor [Ceridwen Fraser](http://ceridwenfraser.com/) and Dist. Prof. [Neil Gemmell](https://gemmell-lab.otago.ac.nz/) at the University of Otago, Dunedin. My PhD research focuses on large macroalgae around New Zealand, in particular the way environment and geography shape the microbiome, and the role the microbiome plays in development. 
 
 Prior to starting at the University of Otago, I was based at Massey University in Albany, New Zealand. I completed my Bachelors and Masters degrees there, researching population genomics and mitochondrial genome structure in Isocladus armatus, an endemic isopod. I worked with Prof. James Dale, and Dr's Nikki Freed and Sarah Wells.
 
